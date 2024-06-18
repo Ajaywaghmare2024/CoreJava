@@ -1,0 +1,4 @@
+Student [RollNo=1, name=Aniket, email=anii@123, password=1122, subject=PYTHON, dob=2021-09-09, mark=65.0]
+Student [RollNo=2, name=Harish, email=harishi@123, password=789, subject=DATABASE, dob=2022-04-04, mark=60.0]
+Student [RollNo=3, name=Rushi, email=rushi@123, password=456, subject=CPP, dob=2023-05-05, mark=70.0]
+Student [RollNo=4, name=Ajay, email=Ajay@123, password=123, subject=JAVA, dob=2024-03-05, mark=80.0]

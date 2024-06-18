@@ -1,0 +1,4 @@
+Pet [petId=1, name=baby, category=DOG, price=500.0, stock=20, dob=2024-02-02]
+Pet [petId=2, name=mau, category=CAT, price=100.0, stock=10, dob=2023-01-01]
+Pet [petId=3, name=whiteRAbbit, category=RABBIT, price=200.0, stock=60, dob=2022-05-04]
+Pet [petId=4, name=chilabi, category=FISH, price=400.0, stock=30, dob=2024-01-01]
